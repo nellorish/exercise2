@@ -1,0 +1,5 @@
+---
+
+#This is standard in Ansible
+
+username: group_user
